@@ -1,0 +1,3 @@
+/downloads/tv           <your cidr>(ro,all_squash,no_subtree_check,insecure)
+/downloads/movies       <your cidr>(ro,all_squash,no_subtree_check,insecure)
+/downloads/downloads    <your cidr>(ro,all_squash,no_subtree_check,insecure)
